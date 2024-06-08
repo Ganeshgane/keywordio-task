@@ -1,5 +1,5 @@
 import "./App.css";
-import { Route, Routes } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import CreateAds from "./components/CreateAds";
 import Dashboard from "./components/Dashboard";
 import Layout from "./components/Layout";
